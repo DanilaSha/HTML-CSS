@@ -1,0 +1,33 @@
+вставка картинки 
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Даниил Шавлюкевич</title>
+    </head>
+    <body>
+        <front color="green" size="50px" face="Arial"> Меня зовут Даниил,</front> я тестировщик и прокачиваю скилы.
+        вот так вот. 
+        <img src="magiya_shar_biblioteka_kolonny_zamok_63093_1920x1080.jpg" height="100" width="100"> 
+            
+       </body>
+    </html>
+	
+	
+	
+	проблемы с фото alt
+	
+	
+	 <!DOCTYPE html>
+<html>
+    <head>
+        <title>Даниил Шавлюкевич</title>
+    </head>
+    <body>
+        <front color="green" size="50px" face="Arial"> Меня зовут Даниил,</front> я тестировщик и прокачиваю скилы.
+        вот так вот. 
+        <img src="magiya_shar_biblioteka_kolonny_zaok_63093_1920x1080.jpg" height="100" width="100">  alt="аватарка"
+            
+       </body>
+    </html>

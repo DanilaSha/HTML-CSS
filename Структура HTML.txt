@@ -1,0 +1,90 @@
+<html>
+<body bgcolor="black">
+</body>
+</html>
+ черный фон страницы 
+ 
+ текст 
+ <!DOCTYPE html>
+<html>
+    <head>
+        <title>моя первая страница</title>
+    </head> 
+    <body>
+    </body>   
+</html>>
+
+заголовки 6 уровней
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>моя первая страница</title>
+    </head> 
+    <body>
+        <h1>Заголовок 1 уровня</h1>
+        <h2>Заголовок 2 уровня</h2>
+        <h3>Заголовок 3 уровня</h3>
+        <h4>Заголовок 4 уровня</h4>
+        <h5>Заголовок 5 уровня</h5>
+        <h6>Заголовок 6 уровня</h6>
+        привет мир
+    </body>   
+</html>
+
+
+линия разметка
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Даниил Шавлюкевич</title>
+    </head>
+    <body>
+        <p align="center">  Меня зовут Даниил<br>. Я тестировщик. 
+        <hr color="blue">    
+        <p align="right">  Ищу новою работу и прокачиваю свои скилы.
+    </body>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Даниил Шавлюкевич</title>
+    </head>
+    <body>
+        <p align="center">  Меня зовут <b>Даниил</b>. Я тестировщик. 
+            
+        <p align="right">  Ищу новою работу и прокачиваю свои скилы.
+    </body>
+
+    <!DOCTYPE html>
+<html>
+    <head>
+        <title>Даниил Шавлюкевич</title>
+    </head>
+    <body>
+        <p align="center">  Меня зовут <strong>Даниил</strong>. Я тестировщик. 
+            
+        <p align="right">  Ищу новою работу и прокачиваю свои скилы.
+    </body>
+
+    <!DOCTYPE html>
+<html>
+    <head>
+        <title>Даниил Шавлюкевич</title>
+    </head>
+    <body>
+        <p align="center">  Меня зовут <i>Даниил</i>. Я тестировщик. 
+            
+        <p align="right">  Ищу новою работу и прокачиваю свои скилы.
+    </body>
+
+    <!DOCTYPE html>
+<html>
+    <head>
+        <title>Даниил Шавлюкевич</title>
+    </head>
+    <body>
+        <p align="center">  Меня зовут <em>Даниил</em>. Я тестировщик. 
+            
+        <p align="right">  Ищу новою работу и прокачиваю свои скилы.
+    </body>
+
+
